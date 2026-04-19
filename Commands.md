@@ -9,4 +9,10 @@ git checkout <nombre de rama> // Esto cambia de rama
 git checkout -b "nombre de la nueva rama" // Esto crea y cambia a la nueva rama
 git branch  // Esto muestra la rama actual
 git status // Esto muestra el esatado de cambios
+git merge // esto integra los nuevos cambios de una rama en la rama actual
 ```
+
+### git add
+
+Este comando nos permite agregar archivos en conjunto por fichero o individualmente por nombre de archivo
+a el stack de cambios.
