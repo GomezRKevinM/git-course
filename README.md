@@ -2,6 +2,7 @@
 Curso breve sobre git y github
 
 ## Comandos basicos
+[documentacion sobre comandos basicos](./Commands.md)
 
 ## Como clonar un repositorio
 
